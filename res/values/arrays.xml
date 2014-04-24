@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tags_1">
+        <item>The</item>
+        <item>ARRAY</item>
+        <item>STRING</item>
+        <item>command</item>
+        <item>creates</item>
+        <item>and/or</item>
+        <item>resizes</item>
+        <item>an</item>
+        <item>array</item>
+        <item>of</item>
+        <item>String</item>
+        <item>elements</item>
+        <item>in</item>
+        <item>memory</item>
+    </string-array>
+
+</resources>
